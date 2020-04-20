@@ -7,3 +7,4 @@
 
 ## Problem:
 - Quảng cáo còn vài chỗ
+- Bạn nói tôi biết
