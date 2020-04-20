@@ -6,4 +6,4 @@
 - Không quảng cáo hoàn toàn
 
 ## Problem:
-- Bạn nói tôi biết
+- Quảng cáo còn vài chỗ
