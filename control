@@ -1,0 +1,9 @@
+Package: com.iter99.nhaccuatuivip
+Name: Nhaccuatui VIP
+Depends: mobilesubstrate
+Version: 1
+Architecture: iphoneos-arm
+Description: Enable Nhaccuatui VIP.
+Maintainer: iTer99
+Author: iTer99
+Section: Tweaks
