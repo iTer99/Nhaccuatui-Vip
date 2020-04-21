@@ -9,3 +9,9 @@
    return FALSE;
 }
 %end
+
+%hook IPNowPlayingCenterView
+- (void) setAdsLoading:(bool)arg1 {
+   return %orig(FALSE);
+}
+%end
