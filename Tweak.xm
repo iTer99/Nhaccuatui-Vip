@@ -11,7 +11,7 @@
 %end
 
 %hook IPNowPlayingCenterView
-- (void) setAdsLoading:(bool)arg1 {
-   return %orig(FALSE);
+- (bool) canShowAds {
+   return FALSE;
 }
 %end
