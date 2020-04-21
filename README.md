@@ -3,8 +3,7 @@
 ## Feature:
 - Chất lượng nhạc 320kbps, Lossless 
 - Tải nhạc không giới hạn, không giới hạn nhạc nước ngoài.
-- Loại bỏ quảng cáo
+- Loại bỏ quảng cáo hoàn toàn
 
 ## Problem:
-- Quảng cáo còn vài chỗ
 - Bạn nói tôi biết
