@@ -12,6 +12,6 @@
 
 %hook IPNowPlayingCenterView
 - (bool) canShowAds {
-   return NO;
+   return FALSE;
 }
 %end
